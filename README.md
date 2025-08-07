@@ -24,7 +24,7 @@ You need to have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [REPO_LINK]
+    git clone https://github.com/priy1105/finance-whisperer-max.git
     ```
 2.  Install NPM packages
     ```sh
